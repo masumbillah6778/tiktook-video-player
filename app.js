@@ -16,56 +16,56 @@ const videoList = [
   },
 
   {
-    url: "videos/(3).mp4",
+    url: "videos/(1).mp4",
     title: "Tania",
     desc: "Tania Tiktok Video",
     img: "#",
   },
 
   {
-    url: "videos/(4).mp4",
+    url: "videos/(2).mp4",
     title: "Tania",
     desc: "Tania Tiktok Video",
     img: "#",
   },
 
   {
-    url: "videos/(5).mp4",
+    url: "videos/(1).mp4",
     title: "Tania",
     desc: "Tania Tiktok Video",
     img: "#",
   },
 
   {
-    url: "videos/(6).mp4",
+    url: "videos/(2).mp4",
     title: "Tania",
     desc: "Tania Tiktok Video",
     img: "#",
   },
 
   {
-    url: "videos/(7).mp4",
+    url: "videos/(1).mp4",
     title: "Tania",
     desc: "Tania Tiktok Video",
     img: "#",
   },
 
   {
-    url: "videos/(8).mp4",
+    url: "videos/(2).mp4",
     title: "Tania",
     desc: "Tania Tiktok Video",
     img: "#",
   },
 
   {
-    url: "videos/(9).mp4",
+    url: "videos/(1).mp4",
     title: "Tania",
     desc: "Tania Tiktok Video",
     img: "#",
   },
 
   {
-    url: "videos/(10).mp4",
+    url: "videos/(2).mp4",
     title: "Tania",
     desc: "Tania Tiktok Video",
     img: "#",
